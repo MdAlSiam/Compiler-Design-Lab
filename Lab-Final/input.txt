@@ -1,0 +1,12 @@
+int main() {
+    a = 10;
+
+    if (a==b) {
+        a = b+c;
+    }
+
+    while(c==d+c) 
+    {
+      a=b+c; 
+    } 
+}
